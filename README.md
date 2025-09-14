@@ -3,7 +3,7 @@
 The main purpose of this program is to predict whether the stock prices of companies listed on the BVB –  
 Bursa de Valori București (Bucharest Stock Exchange) will go up or down.
 
-**DISCLAIMER:** This program was developed for educational purposes only. Any transactions made based on its predictions  
+**DISCLAIMER:** This program was developed for educational purposes only. Any transactions made based on its predictions
 are your sole responsibility.
 
 The app is structured of 4 main bodies: data selection, model training, creating predictions and the GUI.
