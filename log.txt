@@ -1,0 +1,432 @@
+------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+-----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+2025-08-05 12:23:39.427022 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-05 12:34:14.449643 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 12:34:53.487525 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-05 12:35:55.584084 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+
+2025-08-05 12:36:28.442341 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-08-05 12:36:47.570348 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 12:37:25.954284 --------------------------------------------------ml_tmr.py-----------------------------------------
+Creating necessary columns for trainingSeparatign features from tragets
+Training model
+Saving model
+
+2025-08-05 12:37:26.903080 -------------------------------------------ml_categoriiV2.py---------------------------------------
+Trainign for Energie si Utilitati category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Sector Financiar si Investitii category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Industrie, Constructii si Materiale category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Servicii, Tehnologie si Bunuri de Consum category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+
+2025-08-05 14:19:12.039712 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 14:20:08.599563 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-05 14:20:44.524209 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 14:21:41.267749 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-08-05 14:23:23.629929 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 14:24:21.861479 --------------------------------------------------ml_tmr.py-----------------------------------------
+Creating necessary columns for trainingSeparatign features from tragets
+Training model
+Saving model
+
+2025-08-05 14:24:23.785666 -------------------------------------------ml_categoriiV2.py---------------------------------------
+Trainign for Energie si Utilitati category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Sector Financiar si Investitii category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Industrie, Constructii si Materiale category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Servicii, Tehnologie si Bunuri de Consum category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+
+2025-08-05 17:42:14.650916 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 17:43:12.599267 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-08-05 18:52:32.411711 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 18:53:28.991802 --------------------------------------------------ml_tmr.py-----------------------------------------
+Creating necessary columns for trainingSeparatign features from tragets
+Training model
+Saving model
+
+2025-08-05 18:53:30.629052 -------------------------------------------ml_categoriiV2.py---------------------------------------
+Trainign for Energie si Utilitati category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Sector Financiar si Investitii category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Industrie, Constructii si Materiale category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Trainign for Servicii, Tehnologie si Bunuri de Consum category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+
+2025-08-05 18:54:27.252547 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 18:55:22.833889 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-05 18:57:00.453946 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-05 18:57:55.569734 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-08-06 13:24:00.377322 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-06 13:25:03.493357 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-06 13:25:26.070334 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-06 13:26:29.147666 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-08-06 13:26:40.560046 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-06 13:27:44.073595 --------------------------------------------------ml_tmr.py-----------------------------------------
+Creating necessary columns for trainingSeparatign features from tragets
+Training model
+Saving model
+
+2025-08-06 13:27:45.501063 -------------------------------------------ml_categoriiV2.py---------------------------------------
+Training for Energie si Utilitati category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Sector Financiar si Investitii category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Industrie, Constructii si Materiale category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Servicii, Tehnologie si Bunuri de Consum category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+
+2025-08-06 14:16:24.953989 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-06 14:17:27.060215 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-08-06 14:20:00.860136 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-08-06 14:21:02.830518 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
+
+2025-09-13 15:42:21.218171 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+
+2025-09-13 15:42:22.607364 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-09-13 15:42:58.411109 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+
+2025-09-13 15:45:36.005137 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+
+2025-09-13 15:46:34.556994 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-09-13 15:49:15.122287 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-09-13 15:54:38.180788 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-09-13 15:55:06.419586 -----------------------------------predict_companii.py-------------------------------------
+Transforming data into readable data for model
+Separatign features
+Loading model
+Making predictions
+Determining results
+Saving results into files
+
+2025-09-13 15:57:19.823413 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-09-13 15:57:49.186838 --------------------------------------------------ml_tmr.py-----------------------------------------
+Creating necessary columns for trainingSeparatign features from tragets
+Training model
+Saving model
+
+2025-09-13 15:57:50.569064 -------------------------------------------ml_categoriiV2.py---------------------------------------
+Training for Energie si Utilitati category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Sector Financiar si Investitii category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Industrie, Constructii si Materiale category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+Training for Servicii, Tehnologie si Bunuri de Consum category
+Reading files and creating necessary columns for training
+Saving new dataframe and cleaning it
+Separating features from targets
+Training the model
+
+2025-09-14 01:18:24.776059 ------------------------------------data_selector.py----------------------------------------
+Scrapping for tables
+Extracting info about each company
+Cleaning data
+Deleting temporary filesTranforming data into readable data for category model
+
+2025-09-14 01:19:19.286640 ----------------------------------------predict_categorii.py-----------------------------
+Creating necessary columns
+Entering predicting loop
+Predicting for Energie si Utilitati category
+Loading model
+Predicting for Sector Financiar si Investitii category
+Loading model
+Predicting for Industrie, Constructii si Materiale category
+Loading model
+Predicting for Servicii, Tehnologie si Bunuri de Consum category
+Loading model
+Saving output
